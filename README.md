@@ -1,2 +1,2 @@
-# frutaefruto
-Projeto realizado na aula de arquitetura de CSS da Alura
+# arquitetura-css
+curso de arquitetura da Alura. 
