@@ -34,12 +34,13 @@
     .cabecalho__imagem {
         display: none;
     }
+}
 @media screen and (min-width: 768px) {
     .cabecalho {
         justify-content: space-between;
         padding: 0 5rem;}
 
-    }
+    
     .cabecalho__imagem {
         display: block;
     }
